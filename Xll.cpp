@@ -1,4 +1,4 @@
-// HelloWorldXll.cpp : Defines the exported functions for the DLL application.
+// Xll.cpp : Defines the exported functions for the DLL application.
 //
 
 #include "stdafx.h"
